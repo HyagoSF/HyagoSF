@@ -4,7 +4,7 @@
 ---
 
 - <img align="center" alt="React" height="15" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> React.js Developer
-- 👨‍💻 Currently exploring the exciting world of TypeScript and eager to master its statically typed syntax
+- 👨‍💻 Currently exploring the exciting world of TypeScript and Next.js and eager to master its statically typed syntax
 - ☕ Fueling my coding marathons with the nectar of the gods, aka a piping hot cup of coffee.
 ---
 
