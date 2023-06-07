@@ -3,7 +3,7 @@
 #### ❤ Hello! I'm a passionate front-end developer with a background in civil engineering. I recently made the transition into this field and I'm loving every moment of it. I have a strong desire to constantly improve my skills and deliver outstanding results for my clients. I'm committed to delivering the best user experience and am excited to see where this journey takes me.
 ---
 
-- <img align="center" alt="React" height="15" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> React.js Developer
+- <img align="center" alt="React" height="15" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> Web Developer
 - 👨‍💻 Currently exploring the exciting world of TypeScript and Next.js and eager to master its statically typed syntax
 - ☕ Fueling my coding marathons with the nectar of the gods, aka a piping hot cup of coffee.
 ---
