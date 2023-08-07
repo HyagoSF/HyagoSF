@@ -1,6 +1,6 @@
 ## Welcome to my profile 😁
 
-#### ❤ Hello!! I'm a passionate Full Stack Developer with a background in civil engineering. I made the transition into this field and I love every moment of it. I have a strong desire to constantly improve my skills and deliver outstanding results for my clients. I'm committed to delivering the best user experience and am excited to see where this journey takes me.
+#### ❤ Hey !! I'm a passionate Full Stack Developer with a background in civil engineering. I made the transition into this field and I love every moment of it. I have a strong desire to constantly improve my skills and deliver outstanding results for my clients. I'm committed to delivering the best user experience and am excited to see where this journey takes me.
 ---
 
 - <img align="center" alt="React" height="15" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> Software Engineer
