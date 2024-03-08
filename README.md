@@ -15,28 +15,33 @@
 	
 <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-<img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+<img align="center" alt="GitHub" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" />
 <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" />
+<img align="center" alt="GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-original.svg" />
+<img align="center" alt="GitHub" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" />
 <img align="center" alt="GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-plain.svg" />
 <img align="center" alt="GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" />
 
+<img align="center" alt="GitHub" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" />
+
 <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" alt="GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-original-wordmark.svg" />
+<img align="center" alt="GitHub" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" />
 <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-<img align="center" alt="GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/express/express-original.svg" />
+<img align="center" alt="GitHub" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" />
 
 <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img align="center" alt="GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tailwindcss/tailwindcss-plain.svg" />
 
-<img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+<img align="center" alt="GitHub" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" />
 <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 
 
 <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-<img align="center" alt="GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original.svg" />
+
+<img align="center" alt="GitHub" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" />
 <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 <img align="center" alt="GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-original.svg" />
 <img align="center" alt="GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/photoshop/photoshop-plain.svg" />
@@ -45,6 +50,7 @@
 
 
 <img align="center" alt="GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/googlecloud/googlecloud-original.svg" />
+<img align="center" alt="GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/azure/azure-original.svg" />
 
 
 
