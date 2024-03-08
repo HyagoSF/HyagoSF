@@ -3,7 +3,8 @@
 
 - <img align="center" alt="React" height="15" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> Software Engineer
 - ☕ Fueling my coding marathons with the nectar of the gods, aka a piping hot cup of coffee.
----
+
+<br>
 
 <div style="display: flex; justify-content: space-between">
    <a href="https://github.com/HyagoSF">
@@ -75,10 +76,6 @@
     </td>
   </tr>
 </table>
-  
-
- <br>
- 
 
 ### For Contact me! 
 <div> 
