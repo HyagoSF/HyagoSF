@@ -22,7 +22,6 @@
 
 ### Frontend
 
-* <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> JavaScript
 * <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> TypeScript
 * <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> React & React Native
 * <img align="center" alt="NextJS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" /> Next.js
@@ -31,7 +30,6 @@
 ### Styling
 
 * <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> CSS
-* <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> HTML
 * <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> Bootstrap
 * <img align="center" alt="Tailwind CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tailwindcss/tailwindcss-plain.svg" /> Tailwind CSS
 * <img align="center" alt="GitHub" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" /> Material UI
@@ -39,10 +37,11 @@
 
 ### Databases
 
-* <img align="center" alt="MongoDB" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" /> MongoDB
+* <img align="center" alt="GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" /> Microsoft SQL Server
 * <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> MySQL
+* <img align="center" alt="MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg"> PostgreSQL
+* <img align="center" alt="MongoDB" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" /> MongoDB
 * <img align="center" alt="GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/firebase/firebase-plain.svg" /> Firebase
-
 
     </td>
     <td valign="top" width="450px">
@@ -50,13 +49,10 @@
 ### Backend
 
 * <img align="center" alt="GitHub" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" /> NodeJS
-* <img align="center" alt="GitHub" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" /> ExpressJS
 * <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" /> Java
 * <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> Python
 * <img align="center" alt="Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-original.svg" /> C#
 * <img align="center" alt="DotNet" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" /> .NET
-* <img align="center" alt="CPlusPlus" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" /> C++
-* <img align="center" alt="GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-plain.svg" /> PHP
 
 
 ### Tools
