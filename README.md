@@ -5,15 +5,8 @@
 - ☕ Fueling my coding marathons with the nectar of the gods, aka a piping hot cup of coffee.
 
 <br>
-
-<div style="display: flex; justify-content: space-between">
-   <a href="https://github.com/HyagoSF">
-   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HyagoSF&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HyagoSF&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
 	   
 
-	
 ## Skills
 
 <table>
@@ -77,7 +70,5 @@
 <div> 
   <a href = "mailto:hyagosilvaferreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/hyago-ferreira-6a0195190" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/hyagosf/hyagosf/blob/output/github-contribution-grid-snake.svg)
 
 </div>
